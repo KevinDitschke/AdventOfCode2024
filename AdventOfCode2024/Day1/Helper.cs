@@ -7,7 +7,7 @@ internal static class Helper
 {
     internal static (List<int>, List<int>) ReadAllNumbers()
     {
-        var lines = File.ReadAllLines("Day1/Input1.txt", new UTF8Encoding());
+        var lines = File.ReadAllLines("Day1/Input.txt");
         var regex = new Regex(@"\d+");
         var firstNumbers = new List<int>();
         var secondNumbers = new List<int>();

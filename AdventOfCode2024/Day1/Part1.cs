@@ -1,7 +1,4 @@
-﻿using System.Text;
-using System.Text.RegularExpressions;
-
-namespace AdventOfCode2024.Day1;
+﻿namespace AdventOfCode2024.Day1;
 
 internal static class Part1
 {
