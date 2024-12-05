@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-namespace AdventOfCode2024.Day5
+﻿namespace AdventOfCode2024.Day5
 {
     public static class Part2
     {
